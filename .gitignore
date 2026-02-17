@@ -1,0 +1,4 @@
+.venv/
+ppt.pptx
+convert_pdf.py
+generate_assets.py
